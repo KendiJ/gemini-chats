@@ -85,4 +85,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'trendy-markets.firebasestorage.app',
     measurementId: 'G-G6VCH316VJ',
   );
+
 }
