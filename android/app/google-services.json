@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207029773927",
+    "project_id": "trendy-markets",
+    "storage_bucket": "trendy-markets.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207029773927:android:effbd54eabec0460fb16c2",
+        "android_client_info": {
+          "package_name": "com.example.colorist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQWxtINQU1QhF-HF8QRL0g9JT7__-Ocwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
